@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9a22ae7b98b78a8ef76c9ebb",
+  "owner": "wbwftxwku",
+  "repo": "page-bc787aed4ecb68cd503e4eb0",
+  "title": "老鸭云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bc787aed4ecb68cd503e4eb0",
+      "a": "老鸭云",
+      "b": "稳定全球clash加速器",
+      "entity": "老鸭云",
+      "brand": "老鸭云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f01b1bad15d4f66154c07279fde30a470728de034b7989c1dce7a199893a1548",
+      "content": {
+        "primary_entity": "老鸭云",
+        "keyword1": "老鸭云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，桌面与移动端分别获取订阅地址。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLOSING_TEXT": "选好套餐后在客户端粘贴订阅地址即可开始使用。",
+          "AI_CLOSING_TITLE": "开始老鸭云加速体验",
+          "AI_DESCRIPTION": "，主打稳定全球Clash加速体验，提供基础版、旗舰版与团队版三档套餐，覆盖3台到20台设备同时在线，流量从每月100GB到1000GB，年付可省两个月费用。用户可根据设备数量与流媒体需求选择套餐，按客户端文档导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个方面了解老鸭云的使用方式。",
+          "AI_FEATURES_TITLE": "套餐与接入要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB支持3台设备，旗舰版每月300GB支持5台设备，团队版每月1000GB支持20台设备。",
+          "AI_FEATURE_TEXT_2": "单人或双人使用选基础版即可，需要流媒体与游戏加速可考虑旗舰版，多设备共享或工作团队选团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活随时调整，年付按基础版¥150、旗舰版¥350、团队版¥850计算，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "三档套餐按需选",
+          "AI_FEATURE_TITLE_2": "按设备需求匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期可月付年付",
+          "AI_GUIDE_INTRO": "确认套餐与设备数量后，获取订阅地址并导入客户端。",
+          "AI_GUIDE_TITLE": "三步接入流程",
+          "AI_HERO_INTRO": "老鸭云提供稳定全球Clash加速服务，基础版、旗舰版与团队版覆盖从个人到团队的不同规模。套餐按月或按年计费，设备数量与流量额度清晰可选，适合需要多设备同时使用并配置订阅地址的用户。",
+          "AI_HERO_SUBTITLE": "稳定全球Clash加速服务",
+          "AI_HIGHLIGHT_1": "三档套餐适配个人与团队",
+          "AI_HIGHLIGHT_2": "设备数量与流量额度可选",
+          "AI_HIGHLIGHT_3": "月付年付灵活订阅",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版增加流媒体与游戏优化，团队版面向多设备与工作场景，可参照流量与设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据日常设备数量与流量需求，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "确认套餐支持的设备上限与相应客户端适配要求，确保常用设备能够同时在线。",
+          "AI_STEP_TEXT_3": "获取订阅地址后，依照各客户端文档导入配置并开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐档位",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "老鸭云套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备，带 IPLC 专线；团队版每月 1000GB、20 台设备，含定制路由。",
+          "AI_FAQ_ANSWER_2": "可以。旗舰版与团队版支持全节点原生流媒体解锁，基础版解锁基础流媒体，按需求选择对应档位即可。",
+          "AI_FAQ_ANSWER_3": "老鸭云按设备数量区分：基础版 3 台、旗舰版 5 台、团队版 20 台，多设备场景建议选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_4": "基础版按年付 ¥150，旗舰版 ¥350，团队版 ¥850，年付比月付更划算，适合长期使用者。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入老鸭云订阅链接，选择对应节点即可连接，具体步骤可参考所用客户端的使用文档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "老鸭云各套餐流量和设备数分别是多少？",
+          "AI_FAQ_QUESTION_2": "旗舰版可以解锁流媒体吗？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何选择？",
+          "AI_FAQ_QUESTION_4": "按年付价格和月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "导入订阅后怎么开始使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--6nq0hk9t1tenrrj87a.com",
+    "host": "xn--6nq0hk9t1tenrrj87a.com"
+  },
+  "file_hashes": {
+    "index.html": "86bbde4c1656bd64c73cd532022d37c54b8951919d6d9b35fba17b1828aac3d7",
+    "sitemap.xml": "ce2de9df162f4f2590aeca1b3d29b9cb23bd5065e965b3a57a035a8df04041cb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "07299ab8b4c310cf67d8b307a478f432303cf6a8ebaa14a3dc324f5b5deebd58",
+    "robots.txt": "d5228f4a34f0dc1476b15e985f06e8f121c982bcb6906cfe11563af52cfcf783",
+    "6486780a091a3a516c49c407db8261d4.txt": "06a4a8af39a7cb8415ed7f513baf4f39f9dcba6ce7f1e3bce1bd41fd29315852"
+  },
+  "revision": "a462d5ab783fa58eacd7efd4a27249b038c890c4ddbfa265dc695f5d43470c8a"
+}
